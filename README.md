@@ -28,6 +28,7 @@
 
 ## Exam
 - [Exam AI-102: Designing and Implementing a Microsoft Azure AI Solution](https://learn.microsoft.com/en-us/credentials/certifications/exams/ai-102/)
+- [Certification Poster](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI)
 
 
 ## Tutorials
